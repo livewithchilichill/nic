@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 210" font-family="Arial, Helvetica, sans-serif">
+<rect x="10" y="70" width="120" height="56" fill="#ffffff" stroke="#000080" stroke-width="2"/>
+<text x="70" y="94" text-anchor="middle" font-size="13" font-weight="bold" fill="#000080">浏览器</text>
+<text x="70" y="112" text-anchor="middle" font-size="10" fill="#666">Poutling 用户</text>
+<rect x="250" y="70" width="140" height="56" fill="#ffcc00" stroke="#000" stroke-width="2"/>
+<text x="320" y="94" text-anchor="middle" font-size="13" font-weight="bold">auth.livewith.cc</text>
+<text x="320" y="112" text-anchor="middle" font-size="10" fill="#333">统一认证平台</text>
+<rect x="500" y="70" width="130" height="56" fill="#ffffff" stroke="#000080" stroke-width="2"/>
+<text x="565" y="94" text-anchor="middle" font-size="13" font-weight="bold" fill="#000080">站群服务</text>
+<text x="565" y="112" text-anchor="middle" font-size="10" fill="#666">map / bbs / wiki …</text>
+<line x1="130" y1="86" x2="244" y2="86" stroke="#cc0000" stroke-width="2"/>
+<path d="M244 86 l-8 -4 v8 Z" fill="#cc0000"/>
+<text x="187" y="78" text-anchor="middle" font-size="10" fill="#cc0000">1 跳转登录</text>
+<line x1="250" y1="110" x2="136" y2="110" stroke="#009966" stroke-width="2"/>
+<path d="M136 110 l8 -4 v8 Z" fill="#009966"/>
+<text x="193" y="126" text-anchor="middle" font-size="10" fill="#009966">2 签发 ticket</text>
+<line x1="390" y1="86" x2="494" y2="86" stroke="#cc0000" stroke-width="2"/>
+<path d="M494 86 l-8 -4 v8 Z" fill="#cc0000"/>
+<text x="442" y="78" text-anchor="middle" font-size="10" fill="#cc0000">3 携 ticket 访问</text>
+<line x1="500" y1="110" x2="396" y2="110" stroke="#336699" stroke-width="2"/>
+<path d="M396 110 l8 -4 v8 Z" fill="#336699"/>
+<text x="448" y="126" text-anchor="middle" font-size="10" fill="#336699">4 校验 ticket</text>
+<rect x="250" y="160" width="140" height="36" fill="#f4f4f4" stroke="#999" stroke-width="1.5"/>
+<text x="320" y="182" text-anchor="middle" font-size="11" fill="#333">会话 /  scopes 存储</text>
+<line x1="320" y1="126" x2="320" y2="156" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="10" y="24" font-size="11" fill="#666600" font-weight="bold">▶ 统一认证票据流程（OAuth2 风格，ticket 一次性、5 分钟有效）</text>
+</svg>

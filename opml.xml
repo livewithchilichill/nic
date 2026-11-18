@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head><title>PNIC 订阅包</title></head>
+<body>
+<outline text="PNIC 全量公告" type="rss" xmlUrl="https://nic.livewith.cc/feed.xml"/>
+<outline text="PNIC 政策" type="rss" xmlUrl="https://nic.livewith.cc/feeds/policy.xml"/>
+<outline text="PNIC 维护" type="rss" xmlUrl="https://nic.livewith.cc/feeds/maintenance.xml"/>
+<outline text="PNIC 项目" type="rss" xmlUrl="https://nic.livewith.cc/feeds/projects.xml"/>
+</body>
+</opml>

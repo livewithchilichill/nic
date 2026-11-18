@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "2026-11-17-portal-v3",
+    "date": "2026-11-17",
+    "pub": "Tue, 17 Nov 2026 10:00:00 +0800",
+    "title": "门户 v3 上线：NIC 风格重构与 WHOIS 演示开放",
+    "desc": "PNIC · 厚嘴唇星网络信息中心 — Live with ChiliChill 站群官方首页。Addressing the challenge of responsible Internet resource distribution for Poutlings on Earth.",
+    "cat": "projects",
+    "badge": "NEW!",
+    "body": "<p style=\"text-align:justify\">门户今日切换至 v3：视觉语言重构自 1998–2002 年各洲公共 NIC 主页（APNIC、ARIN、RIPE NCC、InterNIC、CNNIC、JPNIC、LACNIC、DENIC 的 Wayback 存档），保留站群全部服务入口与申请流程。</p>\n<p style=\"text-align:justify\">同期开放 WHOIS 演示查询与 API 演示控制台：注册库种子化于客户端，可查询 delegation、handle、邮箱别名与 nameserver 对象，体验与真实注册局一致。旧版门户归档保留，不做跳转劫持。</p>"
+  },
+  {
+    "slug": "2026-11-02-maintenance",
+    "date": "2026-11-02",
+    "pub": "Mon, 02 Nov 2026 04:30:00 +0800",
+    "title": "短网址与 API 网关维护完成",
+    "desc": "PNIC · 厚嘴唇星网络信息中心 — Live with ChiliChill 站群官方首页。Addressing the challenge of responsible Internet resource distribution for Poutlings on Earth.",
+    "cat": "maintenance",
+    "badge": "UPD",
+    "body": "<p style=\"text-align:justify\">go.livewith.cc 与 api.livewith.cc 于 11 月 2 日 02:00–04:00（UTC+8）完成例行维护：短址索引重建、限流规则更新、TLS 证书轮换。维护期间 302 服务降级为缓存响应，未发生丢单。</p>\n<p style=\"text-align:justify\">九十日零命中清理策略自本次维护起生效；被清理短址保留 30 日申诉窗口，致信 registry@livewith.cc 附工单号即可恢复。</p>"
+  },
+  {
+    "slug": "2026-10-12-policy-v2",
+    "date": "2026-10-12",
+    "pub": "Mon, 12 Oct 2026 09:00:00 +0800",
+    "title": "delegation 政策 v2 生效",
+    "desc": "PNIC · 厚嘴唇星网络信息中心 — Live with ChiliChill 站群官方首页。Addressing the challenge of responsible Internet resource distribution for Poutlings on Earth.",
+    "cat": "policy",
+    "badge": "",
+    "body": "<p style=\"text-align:justify\">政策 v2 更新三点：保留字清单扩充（新增 registry / status / git 等）；审核时限明确为三个工作日并公示结果；自管 NS 的 delegation 须每半年回执一次存活证明，逾期进入 suspend 而非直接删除。</p>\n<p style=\"text-align:justify\">既有 delegation 不受保留字扩充影响（祖父条款）。政策全文与申诉通道见团队页联系方式；异议期三十日，期内致信 registry@ 附理由即可复核。</p>"
+  },
+  {
+    "slug": "2026-09-30-map-release",
+    "date": "2026-09-30",
+    "pub": "Wed, 30 Sep 2026 12:00:00 +0800",
+    "title": "ChiliChill Map 秋季版本发布",
+    "desc": "PNIC · 厚嘴唇星网络信息中心 — Live with ChiliChill 站群官方首页。Addressing the challenge of responsible Internet resource distribution for Poutlings on Earth.",
+    "cat": "projects",
+    "badge": "",
+    "body": "<p style=\"text-align:justify\">旗舰社区项目 ChiliChill Map 发布秋季版本：摊位导览离线包、无障碍路线模式与志愿者排班图层。map.livewith.cc 已同步更新，离线包经 go.livewith.cc/map 分发。</p>\n<p style=\"text-align:justify\">感谢 vols 角色邮箱收到的 47 份现场反馈；下一版本窗口为 2027 年春季，issue 首响承诺维持 48 小时。</p>"
+  }
+]
